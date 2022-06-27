@@ -1,0 +1,9 @@
+.cards__item {
+  width: 240px; /* (920-100*2)/3 */
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 100px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
