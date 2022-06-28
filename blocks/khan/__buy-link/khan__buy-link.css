@@ -4,6 +4,7 @@
   font-size: 30px;
   font-weight: normal;
   text-decoration: none;
+  transition: 0.3s linear;
 }
 
 .khan__buy-link::after {
@@ -11,5 +12,5 @@
 }
 
 .khan__buy-link:hover {
-  color: black;
+  opacity: 0.5;
 }

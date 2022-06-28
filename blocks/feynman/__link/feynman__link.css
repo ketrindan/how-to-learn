@@ -8,6 +8,7 @@
   color: #2f80ed;
   text-decoration: none;
   z-index: 1;
+  transition: 0.3s linear;
 }
 
 .feynman__link::after {
@@ -15,5 +16,5 @@
 }
 
 .feynman__link:hover {
-  color: black;
+  opacity: 0.5;
 }
