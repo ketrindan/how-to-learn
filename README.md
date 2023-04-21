@@ -1,5 +1,5 @@
 # Научиться учиться #
-## ***Проектная работа созданная на курсе [Яндекс.Практикум](https://practicum.yandex.ru/).***
+## ***Проектная работа созданная на курсе [Яндекс.Практикум](https://practicum.yandex.ru/)***
 *Мои первые шаги в вэб-разработке*
 
 ![image](https://raw.githubusercontent.com/ketrindan/how-to-learn/main/images/screen.png)
